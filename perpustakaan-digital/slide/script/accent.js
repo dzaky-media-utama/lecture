@@ -50,12 +50,12 @@ function particle(){
 				"enable": true,
 				"distance": 150,
 				"color": "#555",
-				"opacity": 100,
+				"opacity": 0.4,
 				"width": 1
 			},
 			"move": {
 				"enable": true,
-				"speed": 3,
+				"speed": 10,
 				"direction": "none",
 				"random": false,
 				"straight": false,
