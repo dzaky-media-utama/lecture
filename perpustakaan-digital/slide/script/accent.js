@@ -27,12 +27,12 @@ function particle(){
 				}
 			},
 			"opacity": {
-				"value": 100,
+				"value": 0.2,
 				"random": false,
 				"anim": {
 					"enable": false,
 					"speed": 1,
-					"opacity_min": 100,
+					"opacity_min": 0.1,
 					"sync": false
 				}
 			},
@@ -50,7 +50,7 @@ function particle(){
 				"enable": true,
 				"distance": 150,
 				"color": "#555",
-				"opacity": 0.4,
+				"opacity": 100,
 				"width": 1
 			},
 			"move": {
