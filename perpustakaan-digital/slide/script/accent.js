@@ -32,7 +32,7 @@ function particle(){
 				"anim": {
 					"enable": false,
 					"speed": 1,
-					"opacity_min": 0.1,
+					"opacity_min": 100,
 					"sync": false
 				}
 			},
