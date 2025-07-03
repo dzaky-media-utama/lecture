@@ -27,7 +27,7 @@ function particle(){
 				}
 			},
 			"opacity": {
-				"value": 0.2,
+				"value": 100,
 				"random": false,
 				"anim": {
 					"enable": false,
