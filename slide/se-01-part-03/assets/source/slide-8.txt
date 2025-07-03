@@ -1,0 +1,7 @@
+Perpustakaan Tradisional:
+
+Dalam perpustakaan tradisional, pengguna harus mencari buku secara manual dengan menggunakan katalog dan indeks yang tersedia. Sistem katalog ini biasanya berbentuk kartu katalog atau daftar buku yang disusun berdasarkan kategori tertentu, seperti judul, pengarang, atau subjek. Proses pencarian ini sering kali memakan waktu karena pengguna harus menelusuri secara fisik daftar yang tersedia sebelum menemukan lokasi buku di rak perpustakaan. Meskipun metode ini efektif dalam pengelolaan koleksi fisik, keterbatasan dalam sistem pencarian manual dapat menyulitkan pengguna dalam menemukan informasi dengan cepat, terutama jika koleksi perpustakaan sangat besar.
+
+Perpustakaan Digital:
+
+Dalam perpustakaan digital, pengguna dapat mencari informasi dengan lebih efisien menggunakan sistem pencarian berbasis kata kunci dan metadata. Teknologi ini memungkinkan pencarian dilakukan secara cepat dengan hasil yang lebih relevan, karena sistem dapat mengindeks berbagai atribut dokumen, seperti judul, penulis, tahun terbit, dan bahkan isi teks. Dengan penerapan algoritma pencarian canggih dan kecerdasan buatan (AI), pengguna dapat menemukan informasi yang diinginkan dalam hitungan detik tanpa harus menelusuri katalog secara manual. Selain itu, fitur pencarian lanjutan, seperti pencarian berbasis kategori atau filter khusus, semakin meningkatkan aksesibilitas dan kemudahan dalam menemukan sumber informasi yang tepat.

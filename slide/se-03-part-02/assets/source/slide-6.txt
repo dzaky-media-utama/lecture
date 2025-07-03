@@ -1,0 +1,3 @@
+Jenis Metadata
+Dalam konteks metadata, terdapat tiga jenis kategori utama yang digunakan untuk mendeskripsikan dan mengelola koleksi digital dalam perpustakaan digital, yaitu deskriptif, struktural, dan administratif. 
+Kategori pertama, deskriptif, berfungsi untuk menyediakan deskripsi yang mendalam mengenai koleksi tersebut. Metadata deskriptif mencakup informasi seperti judul, pengarang, subjek, kata kunci, dan tahun terbit, yang secara langsung memberikan gambaran tentang isi dan karakteristik dari koleksi. Deskripsi ini sangat penting untuk membantu pengguna dalam mencari, menemukan, dan mengidentifikasi koleksi yang relevan dengan kebutuhan mereka.

@@ -1,0 +1,3 @@
+Peran Metadata dalam Aksesibilitas, yang pertama adalah Pencarian yang Efektif
+Metadata memainkan peran yang sangat penting dalam meningkatkan pencarian informasi secara efektif. Dengan menggunakan metadata, pengguna dapat dengan mudah menemukan informasi yang dibutuhkan melalui pencarian berbasis kata kunci, penulis, atau kategori lain yang relevan. Metadata memberikan informasi tambahan yang mempermudah proses pencarian, memungkinkan pengguna untuk mempersempit hasil pencarian dengan lebih spesifik dan efisien. Misalnya, dengan menambahkan metadata tentang penulis atau topik tertentu pada sebuah dokumen, pengguna dapat langsung mengidentifikasi dan memilih konten yang sesuai dengan kebutuhan mereka tanpa harus melihat keseluruhan isi dokumen.
+

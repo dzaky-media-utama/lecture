@@ -1,0 +1,2 @@
+Perlindungan arsip digital harus menggabungkan teknik enkripsi, backup, dan autentikasi.
+Rekomendasi untuk penelitian lebih lanjut termasuk peningkatan teknologi enkripsi dan eksplorasi autentikasi berbasis biometrik.

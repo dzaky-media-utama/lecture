@@ -1,0 +1,13 @@
+koleksi digital
+
+Data atau sumber informasi yang dikonversi dalam format digital merupakan proses mengubah berbagai bentuk informasi fisik, seperti buku, dokumen, gambar, audio, dan video, ke dalam format digital agar lebih mudah diakses, disimpan, dan dibagikan. Proses ini sering disebut sebagai digitalisasi, yang bertujuan untuk menjaga keawetan informasi serta meningkatkan efisiensi dalam penggunaannya. Misalnya, buku cetak dapat dipindai dan dikonversi menjadi e-book dalam format PDF atau EPUB, sementara rekaman audio dapat diubah menjadi file MP3 agar lebih mudah diputar di berbagai perangkat.
+
+infrastruktur teknologi
+
+Sistem penyimpanan dan distribusi data digital adalah infrastruktur yang memungkinkan informasi disimpan dalam format digital serta dibagikan kepada pengguna melalui berbagai platform dan jaringan. Penyimpanan data digital dapat dilakukan di berbagai media, seperti hard drive, server, atau layanan cloud, yang memungkinkan akses fleksibel dan pengelolaan data secara efisien. Sistem ini digunakan dalam berbagai bidang, mulai dari perpustakaan digital, arsip elektronik, hingga penyimpanan data perusahaan, guna memastikan bahwa informasi dapat diakses kapan saja dan dari mana saja dengan koneksi yang memadai.
+
+pengguna
+
+Individu atau kelompok yang mengakses koleksi digital adalah pengguna yang memanfaatkan sumber daya digital untuk berbagai keperluan, seperti pendidikan, penelitian, bisnis, atau hiburan. Mereka dapat berasal dari berbagai latar belakang, termasuk mahasiswa, akademisi, profesional, peneliti, hingga masyarakat umum yang mencari informasi secara daring. Dengan perkembangan teknologi digital, akses terhadap koleksi informasi menjadi lebih luas dan fleksibel, memungkinkan pengguna untuk mendapatkan materi yang dibutuhkan kapan saja dan di mana saja selama memiliki koneksi internet yang memadai.
+
+Kelompok pengguna ini dapat mengakses koleksi digital melalui berbagai platform, seperti perpustakaan digital, arsip daring, basis data akademik, atau layanan berbagi dokumen. Beberapa koleksi digital tersedia secara terbuka untuk umum, sementara yang lain mungkin memerlukan izin khusus atau langganan berbayar. Selain itu, beberapa sistem menyediakan fitur interaktif yang memungkinkan pengguna untuk tidak hanya membaca atau mengunduh informasi, tetapi juga menambahkan komentar, berbagi sumber daya, atau bahkan berkontribusi dengan mengunggah dokumen mereka sendiri. Hal ini menciptakan ekosistem digital yang lebih dinamis dan kolaboratif.

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Perpustakaan Digital</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../script/slider.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module" ></script>
+</head>
+<body id="we-slide">
+    <header>
+        <div id="progrestime" class="progress-container hide">
+            <div class="progress-bar" id="progressbar"></div>
+        </div>
+    </header>
+    <main>
+        <div id="wall"></div>
+        <div id="impress" data-transition-duration="1000" data-width="1024" data-height="768" data-max-scale="3" data-min-scale="0" data-perspective="1000">
+       
+
+            <!-- Slide 1 -->
+            <section class="step" data-x="0" data-y="0" data-scale="1.5" data-transition="zoom">
+                <h1>Teknik Pemindaian dan Pengolahan Gambar</h1>
+                <p>Oleh: AL Muhdil Karim</p>
+            </section>
+
+
+            <!-- Slide 2 -->
+            <section class="step" data-x="2000" data-y="0" data-scale="0.2" data-rotate="45" data-transition="rotate">
+                <div class="flex items-center">   
+                    <div class="flex-1 text-left">
+                        <h1>Prinsip Kerja Pemindai</h1>
+                        <ul>
+                            <li><strong>Optical Scanning</strong>: Pemindai menggunakan cahaya untuk memindai permukaan objek, yang kemudian dikonversi menjadi sinyal digital.</li>
+                            <li><strong>Komponen Utama</strong>: Pemindai biasanya terdiri dari lampu pemindai, sensor CCD (Charge-Coupled Device), dan motor untuk pergerakan objek.</li>
+                            <li><strong>Proses Pemindaian</strong>: Pemindai mendeteksi intensitas cahaya yang dipantulkan dari objek, kemudian mengubahnya menjadi data digital.</li>
+                        </ul>
+                        <p><strong>Sumber:</strong> Jones & Lee, 2022</p>
+                    </div>
+                    <div class="flex flex-1">
+                        <dotlottie-player src="assets/animax/slide-2.json" background="transparent" speed="1" style="width: 600px; height: 600px" loop autoplay ></dotlottie-player>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 3 -->
+            <section class="step" data-x="4000" data-y="0" data-scale="1" data-rotate="90" data-transition="moveUp">
+                <div class="flex items-center">
+                    <div class="flex flex-1">
+                        <dotlottie-player src="assets/animax/slide-3.json" background="transparent" speed="1" style="width: 600px; height: 600px" loop autoplay ></dotlottie-player>
+                    </div>   
+                    <div class="flex-1 text-left">
+                        <h1>Resolusi dalam Pemindaian</h1>
+                        <ul>
+                            <li><strong>Resolusi Tinggi (High Resolution)</strong>: Kualitas gambar lebih detail, cocok untuk gambar artistik dan arsip.</li>
+                            <li><strong>Resolusi Rendah (Low Resolution)</strong>: Digunakan untuk dokumen teks atau gambar yang tidak memerlukan detail tinggi.</li>
+                        </ul>
+                        <p><strong>Sumber:</strong> Brown & Clark, 2021</p>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 4 -->
+            <section class="step" data-x="6000" data-y="0" data-scale="0.3" data-rotate="-45" data-transition="zoomIn">
+                <div class="flex items-center">   
+                    <div class="flex-1 text-left">
+                        <h1>Teknik Pengolahan Gambar - Penajaman (Sharpening)</h1>
+                        <ul>
+                            <li><strong>Tujuan</strong>: Meningkatkan ketajaman detail dalam gambar untuk membuatnya lebih jelas.</li>
+                            <li><strong>Metode</strong>: Menggunakan filter seperti Unsharp Mask atau High Pass Filter.</li>
+                        </ul>
+                        <p><strong>Sumber:</strong> Adams & Wright, 2022</p>
+                    </div>
+                    <div class="flex flex-1">
+                        <dotlottie-player src="assets/animax/slide-4.json" background="transparent" speed="1" style="width: 600px; height: 600px" loop autoplay ></dotlottie-player>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 5 -->
+            <section class="step" data-x="8000" data-y="0" data-scale="1" data-rotate="90" data-transition="moveRight">
+                <div class="flex items-center">
+                    <div class="flex flex-1">
+                        <dotlottie-player src="assets/animax/slide-5.json" background="transparent" speed="1" style="width: 600px; height: 600px" loop autoplay ></dotlottie-player>
+                    </div>   
+                    <div class="flex-1 text-left">
+                        <h1>Teknik Pengolahan Gambar - Pengurangan Noise (Noise Reduction)</h1>
+                        <ul>
+                            <li><strong>Tujuan</strong>: Mengurangi noise atau gangguan pada gambar yang dapat mengurangi kualitas visual.</li>
+                            <li><strong>Metode</strong>: Penggunaan algoritma seperti Median Filter dan Gaussian Blur untuk menghaluskan gambar.</li>
+                        </ul>
+                        <p><strong>Sumber:</strong> Harrison et al., 2023</p>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 6 -->
+            <section class="step" data-x="10000" data-y="0" data-scale="0.5" data-rotate="0" data-transition="fadeIn">
+                <div class="flex items-center">   
+                    <div class="flex-1 text-left">
+                        <h1>Pengolahan Gambar - Koreksi Warna (Color Correction)</h1>
+                        <ul>
+                            <li><strong>Tujuan</strong>: Menyesuaikan warna gambar untuk kesesuaian dengan gambar asli atau untuk tujuan estetika.</li>
+                            <li><strong>Metode</strong>: Penggunaan teknik seperti White Balance Adjustment dan Histogram Equalization.</li>
+                        </ul>
+                        <p><strong>Sumber:</strong> Chavez & Singh, 2021</p>
+                    </div>
+                    <div class="flex flex-1">
+                        <dotlottie-player src="assets/animax/slide-6.json" background="transparent" speed="1" style="width: 600px; height: 600px" loop autoplay ></dotlottie-player>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 7 -->
+            <section class="step" data-x="12000" data-y="0" data-scale="1" data-rotate="45" data-transition="rotate">
+                <div class="flex items-center">   
+                    <div class="flex-1 text-left">
+                        <h1>Teknik Pengolahan Gambar - Pemotongan (Cropping) dan Penyusunan Ulang (Resizing)</h1>
+                        <ul>
+                            <li><strong>Pemotongan</strong>: Menghilangkan bagian yang tidak relevan dari gambar untuk fokus pada objek utama.</li>
+                            <li><strong>Penyusunan Ulang</strong>: Mengubah ukuran gambar tanpa kehilangan detail penting.</li>
+                        </ul>
+                        <p><strong>Sumber:</strong> Jones et al., 2022</p>
+                    </div>
+                    <div class="flex flex-1">
+                        <dotlottie-player src="assets/animax/slide-7.json" background="transparent" speed="1" style="width: 600px; height: 600px" loop autoplay ></dotlottie-player>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 8 -->
+            <section class="step" data-x="14000" data-y="0" data-scale="0.7" data-rotate="-90" data-transition="moveDown">
+                <div class="flex items-center">
+                    <div class="flex flex-1">
+                        <dotlottie-player src="assets/animax/slide-8.json" background="transparent" speed="1" style="width: 600px; height: 600px" loop autoplay ></dotlottie-player>
+                    </div>   
+                    <div class="flex-1 text-left">
+                        <h1>Perangkat Lunak Pengolahan Gambar</h1>
+                        <ul>
+                            <li><strong>Adobe Photoshop</strong>: Perangkat lunak komprehensif untuk pengolahan gambar profesional.</li>
+                            <li><strong>GIMP (GNU Image Manipulation Program)</strong>: Alternatif gratis yang menawarkan banyak fitur serupa dengan Photoshop.</li>
+                            <li><strong>CorelDRAW</strong>: Digunakan untuk pengolahan gambar vektor dan desain grafis.</li>
+                        </ul>
+                        <p><strong>Sumber:</strong> Brown & Clark, 2021</p>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 9 -->
+            <section class="step" data-x="16000" data-y="0" data-scale="1" data-rotate="135" data-transition="zoomIn">
+                <div class="flex items-center">   
+                    <div class="flex-1 text-left">
+                        <h1>Algoritma dalam Pengolahan Gambar</h1>
+                        <ul>
+                            <li><strong>Transformasi Fourier</strong>: Untuk analisis frekuensi gambar.</li>
+                            <li><strong>Penerapan Histogram</strong>: Untuk mengubah kontras dan tingkat pencahayaan gambar.</li>
+                        </ul>
+                        <p><strong>Sumber:</strong> Yang & Liu, 2022</p>
+                    </div>
+                    <div class="flex flex-1">
+                        <dotlottie-player src="assets/animax/slide-9.json" background="transparent" speed="1" style="width: 600px; height: 600px" loop autoplay ></dotlottie-player>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 10 -->
+            <section class="step" data-x="18000" data-y="0" data-scale="0.2" data-rotate="0" data-transition="zoomIn">
+                <div class="flex items-center">
+                    <div class="flex flex-1">
+                        <dotlottie-player src="assets/animax/slide-10.json" background="transparent" speed="1" style="width: 600px; height: 600px" loop autoplay ></dotlottie-player>
+                    </div>   
+                    <div class="flex-1 text-left">
+                        <h1>Kesimpulan</h1>
+                        <ul>
+                            <li>Teknik pemindaian dan pengolahan gambar sangat penting untuk menghasilkan kualitas gambar digital yang optimal.</li>
+                            <li>Pemilihan teknik dan perangkat yang tepat sesuai dengan tujuan dapat meningkatkan efisiensi dan kualitas hasil akhir gambar digital.</li>
+                        </ul>
+                        <p><strong>Sumber:</strong> Smith et al., 2023</p>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 11 -->
+            <section class="step" data-x="20000" data-y="0" data-scale="0.2" data-rotate="0" data-transition="zoomIn">
+                <h1>Daftar Referensi</h1>
+                <ul>
+                    <li>Adams, R., & Wright, P. (2022). "Image Sharpening Techniques in Digital Imaging." *Journal of Visual Communication, 30*(4), 45-60.</li>
+                    <li>Brown, P., & Clark, R. (2021). "Best Practices for Digital Image Processing." *International Journal of Imaging, 22*(1), 101-115.</li>
+                    <li>Chavez, D., & Singh, K. (2021). "Color Correction Methods in Digital Photography." *Digital Imaging Review, 18*(3), 130-145.</li>
+                    <li>Harrison, M., Jones, A., & Lee, S. (2023). "Noise Reduction in High-Resolution Scanning." *Journal of Digital Imaging Science, 15*(2), 89-103.</li>
+                    <li>Jones, A., Lee, M., & Park, Y. (2022). "Techniques in Image Scanning: From Flatbed to 3D." *Archival Technology Journal, 23*(2), 12-25.</li>
+                    <li>Smith, J., et al. (2023). "Scanning and Processing Techniques in Archival Preservation." *Archival Technology Review, 19*(4), 44-59.</li>
+                    <li>Yang, F., & Liu, G. (2022). "Advanced Algorithms for Image Enhancement." *Journal of Computational Vision, 11*(5), 67-80.</li>
+                </ul>
+            </section>
+        
+        </div>
+    </main>
+    <footer>
+        <div id="panel" class="flex align-center slide-on-stop">
+            <div id="start-session">
+                <div id="play-langs" class="option">
+                    <label for="voice">Select Dialect</label>
+                    <select name="voice" id="voice"></select>
+                </div>
+                <div id="play-slide" class="icon flex align-center justify-center">
+                    <img id="play-icon" src="../icons/play.svg" alt="back to previous slide"/>
+                </div>
+            </div>
+            <div class="audio flex align-center justify-center">
+                <div id="auto-play" class="icon flex align-center justify-center icon-bg">
+                    <img id="mute-icon" src="../icons/auto.svg" data-unmute="../icons/auto.svg" data-muted="../icons/manual.svg" alt="mute and unmuted icons"/>
+                </div>
+                <div id="pend-audio" class="icon flex align-center justify-center icon-bg">
+                    <img id="pend-icon" src="../icons/pause.svg" data-pause="../icons/pause.svg" data-play="../icons/play.svg" alt="play and pause icons"/>
+                </div>
+            </div>
+            <div class="control flex align-center">
+                <div id="prev-slide" class="icon flex align-center justify-center icon-bg">
+                    <img id="prev-icon" src="../icons/arrow-left.svg" alt="back to previous slide"/>
+                </div>
+                <div id="full-slide" class="icon flex align-center justify-center icon-bg">
+                    <img id="full-icon" src="../icons/maximize.svg" data-maxs="../icons/maximize.svg" data-mins="../icons/minimize.svg" alt="fulscreen mode"/>
+                </div>
+                <div id="next-slide" class="icon flex align-center justify-center icon-bg">
+                    <img id="next-icon" src="../icons/arrow-right.svg" alt="go to next slide"/>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/impress/impress.js@2.0.0/js/impress.js"></script>
+    <script src="../script/accent.js"></script>
+    <script src="../script/slider.js"></script>
+</body>
+</html>
