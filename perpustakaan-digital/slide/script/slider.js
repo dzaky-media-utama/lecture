@@ -76,7 +76,7 @@ let speak_load = async (posts) => {
     let value = posts.replace('step-','slide-');
     let named = value;
     let files = 'assets/source/'+named+'.txt';
-    let losts = 'Maaf saya tidak menemukan data apapun untuk slide ini'
+    let losts = 'haydar lagi kasmaran'
 
     try {
         const response = await fetch(files);
